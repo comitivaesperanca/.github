@@ -1,5 +1,6 @@
 # Comitiva Esperança 🌟
-Organização destinada ao time Comitiva Esperança do programa [https://pantanal.dev](pantanal.dev) 🚀, um programa de capacitação imersiva em tecnologias inovadoras que tem como objetivo capacitar e apresentar oportunidades de trabalho remoto no mercado financeiro nacional 💼.
+Organização destinada ao time Comitiva Esperança do programa [pantanal.dev](https://pantanal.dev) 🚀, um programa de capacitação imersiva em tecnologias inovadoras que tem como objetivo capacitar e apresentar oportunidades de trabalho remoto no mercado financeiro nacional 💼.
+Estamos organizando o projeto atraves do [Github Projects](https://github.com/orgs/comitivaesperanca/projects/2)
 
 # Participantes 🙋‍♀️🙋‍♂️
 - Vitor Lameirão 
