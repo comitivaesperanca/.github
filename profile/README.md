@@ -22,3 +22,4 @@ As aplicações da plataforma está dividida em quatro repositórios, como:
 - [Eduardo Godoy](https://www.linkedin.com/in/godoydud/)
 - [Arthur Ramires](https://www.linkedin.com/in/arthur-ramires-rodrigues-neto-9687a1193/)
 - [Maycon Felipe Mota](https://www.linkedin.com/in/mfelipemota/)
+- [Andrezza Andrade 👑](https://www.linkedin.com/in/andrezzaandrade/)
